@@ -1,7 +1,8 @@
 {
-  "name": "sample-http",
+  "name": "html2convas-proxy-gcp",
   "version": "0.0.1",
   "dependencies": {
+    "express": "^4.17.1",
     "html2canvas-proxy": "^1.0.1"
   }
 }
